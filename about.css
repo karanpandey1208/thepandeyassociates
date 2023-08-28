@@ -1,0 +1,26 @@
+.brief{
+    display: flex;
+    /* justify-content: center;
+    flex-direction: row; */
+    background-color: rgb(255, 255, 255);
+    text-align: center;
+    padding-top: 2rem;
+    padding-bottom: 2rem;
+    padding-left: 20%;
+    padding-right: 20%;
+    font-family: 'Raleway', sans-serif;
+    font-size: 30px;
+  }
+  
+  .img{
+    padding-top: 2.5rem;
+    height: auto;
+    position:relative;
+    
+  }
+  .text{
+    padding-left: 2rem;
+    text-align: justify;
+    position: inherit;
+    
+  }

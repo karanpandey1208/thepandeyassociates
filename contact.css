@@ -1,0 +1,56 @@
+
+
+.contactForm{
+    font-family: 'Quicksand', sans-serif;
+    padding: 0 40px;
+    padding-top: 150px;
+    padding-bottom: 100px;
+}
+.Nform{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.contactForm h1{
+    font-family: 'Source Code Pro', monospace;
+    text-align: center;
+}
+.gmailid a{
+    text-decoration: none;
+    font-size: 50px;
+    color: black;
+    
+    
+}
+.gmailid {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    padding-top: 40px;
+    border-radius: 10px;
+    
+}
+.whatsapp a{
+    text-decoration: none;
+    font-size: 50px;
+    color: black;
+}
+.whatsapp{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    padding-top: 40px;
+    font-size: 80px;
+    color: green;
+    
+}
+.fa-whatsapp{
+    color: green;
+}
+.fa-envelope-o{
+    color: red;
+}
+#gmail{
+    align-items: center;
+}
